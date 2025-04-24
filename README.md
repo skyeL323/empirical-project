@@ -52,4 +52,3 @@ Instructions:
 3. Run web_scrape_parkrun.ipynb second, which includes web scraping of parkrun results from their website for women aged 20-24 in the South West. Don't uncomment the save csvs here either. 
 4. See blog.txt for the url to the HackMD blog, which includes analysis of the graphs made in the two notebooks. If this is not suitable, there is also a PDF version of the blog in the project directory, called 'Run Forrest Run!'_ An Overkill Analysis of Personal Strava Data.pdf. 
 5. If you would like to see the base code for much of the first notebook, see activities.csv in skye_strava_data or issy_strava_data, which lists all individual recorded activities. 
-    
